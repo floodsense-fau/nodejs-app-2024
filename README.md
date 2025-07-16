@@ -2,7 +2,7 @@
 
 ## Documentaton
 
-The Documentation folder includes the documentation for AWS and source code explanations.
+The Documentation file includes the documentation for AWS and source code explanations.
 
 ## Source Code
 
