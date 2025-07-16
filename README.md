@@ -24,11 +24,12 @@ FloodSense is a capstone project focused on developing an affordable sensor syst
 
 ## Features
 
-- Motherboard for sensor integration and control
-- Gateway for data transmission from sensors
-- Ultrasonic sensor for flood level detection
-- Cloud service for data storage and backend processing
-- Frontend application for real-time monitoring and visualization
+- **Custom Motherboard:** Integrates and manages multiple sensors for flexible deployment.
+- **Wireless Gateway:** Transmits sensor data securely to the cloud backend.
+- **Ultrasonic Flood Detection:** Measures water levels accurately using ultrasonic technology.
+- **Cloud Backend:** Processes, stores, and manages sensor data with scalable APIs.
+- **User-Friendly Frontend:** Provides real-time monitoring, historical data visualization, and alert notifications.
+- **Weather Data Integration:** Enhances flood prediction by incorporating external weather APIs.
 
 ## System Architecture
 
