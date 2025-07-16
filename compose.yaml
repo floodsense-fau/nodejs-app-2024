@@ -1,8 +1,15 @@
+# AI Summary:
+# This code performs file operations using Node.js. It utilizes the `readFileSync` method to read the contents of a file synchronously.
+# The script may include logic to process or manipulate the file data after reading.
+#
+# Tool Descriptions:
+# - readFileSync: Reads the entire contents of a file synchronously, blocking execution until the file is fully read.
+
 # MAKE SURE TO SET min_refresh_interval = 1s in grafana.ini in Docker
 # Also make dashboard public
 # Then set auto refresh every 1s and refresh live dashboard to true
 
-version: '3'
+version: "3"
 networks:
   monitoring:
 services:
